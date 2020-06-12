@@ -20,7 +20,6 @@ using System;
         }
     }
 
-    // implement komputer gaming
     class Gaming : IKomputer
     {
         public void BeliKomputer()
@@ -44,6 +43,6 @@ using System;
             Console.WriteLine("Prosesor     : Intel core i8");
             Console.WriteLine("Ram          : 16 GB DDR4");
             Console.WriteLine("Storage      : 1000 GB HDD\n\n");
-            Console.WriteLine("Terimakasih Telah Membeli Komputer Dari Toko Kami :D");
+            Console.WriteLine("Terimakasih Telah Membeli");
         }
     }
