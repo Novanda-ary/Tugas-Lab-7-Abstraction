@@ -8,7 +8,7 @@ using System;
         //regular method
         public void beliL()
         {
-            Console.WriteLine("Terimakasih Telah Membeli Laptop Dari Toko Kami :D");
+            Console.WriteLine("Terimakasih Telah Membeli");
         }
         
     }
