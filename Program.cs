@@ -9,7 +9,7 @@ namespace Abstraction_2685
             int pilih;
             do
             {
-            Console.WriteLine("\n======== Toko Laptop & Komputer Deny ========\n");
+            Console.WriteLine("\n======== Novanda komputer ========\n");
             Console.WriteLine("Barang apa yang ingin ingin anda beli : ");
             Console.WriteLine("1. Laptop ");
             Console.WriteLine("2. Komputer ");
@@ -19,7 +19,7 @@ namespace Abstraction_2685
             
             if(pilih ==1)
             {
-                Console.WriteLine("\n======== Laptop Toko Deny ========\n");
+                Console.WriteLine("\n======== Laptop (Novanda komputer) ========\n");
                 Console.WriteLine("Laptop apa yang ingin ingin anda beli : ");
                 Console.WriteLine("1. Acer ");
                 Console.WriteLine("2. Asus");
@@ -59,7 +59,7 @@ namespace Abstraction_2685
             
             else if (pilih ==2)
             {
-                Console.WriteLine("\n======== Komputer Toko Deny ========\n");
+                Console.WriteLine("\n======== Komputer (Novanda komputer) ========\n");
                 Console.WriteLine("Komputer apa yang ingin ingin anda beli : ");
                 Console.WriteLine("1. Komputer Biasa ");
                 Console.WriteLine("2. Komputer Gaming");
